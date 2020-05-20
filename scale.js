@@ -10,6 +10,6 @@ function scale(n, inputScale, outputScale){
 const inputScale = [1, 5];
 const outputScale = [0.5, 10];
 
-const value = 1;
+const value = 3;
 
 console.log(scale(value, inputScale, outputScale))
